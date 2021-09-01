@@ -4,7 +4,8 @@ The workflow here is build around using the CESM2 large ensemble data from [Rodg
 
 
 Scripts here were built around a framework develped by Daniel Kennedy, with improvements suggested by Anderson Banihirwe
-I have provided a conda environment to help avoid package mismatch:
+
+The conda environment provided is intended to help avoid package mismatch:
 
 Create the environment with:
 

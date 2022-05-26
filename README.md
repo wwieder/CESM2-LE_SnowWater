@@ -1,5 +1,5 @@
 # CESM2-LE_SnowWater repositiory
-Notebooks here were used to make figures in Wieder et al. 2021, submitted to Nature Climate Change
+Notebooks here were used to make figures in Wieder et al. 2022, accepted in PNAS.
 The workflow here is build around using the CESM2 large ensemble data from [Rodgers et al. 2021](https://esd.copernicus.org/preprints/esd-2021-50/) on NCAR's casper cluster
 
 
